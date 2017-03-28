@@ -1,0 +1,15 @@
+{
+  "name": "react-tape",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/nicklanng/react-tape",
+  "author": "<rinse@rinseworld.com>",
+  "license": "MIT",
+  "dependencies": {
+    "extend-tape": "^1.2.0",
+    "react-addons-test-utils": "^15.4.2",
+    "tape": "^4.6.3",
+    "tape-jsx-equals": "^1.0.0",
+    "tape-jsx-includes": "^1.1.0"
+  }
+}
