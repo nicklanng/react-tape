@@ -1,4 +1,6 @@
 # react-tape
+[![npm version](https://badge.fury.io/js/react-tape.svg)](https://badge.fury.io/js/react-tape)
+
 A simple helper library that pulls together Tape and React testing extensions.
 
 ## Example
