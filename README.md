@@ -1,9 +1,10 @@
 # react-tape
-[![npm version](https://badge.fury.io/js/react-tape.svg)](https://badge.fury.io/js/react-tape)
-
 A simple helper library that pulls together Tape and React testing extensions.
 
-Requires `react@^15.5.0`.
+[![npm version](https://badge.fury.io/js/react-tape.svg)](https://badge.fury.io/js/react-tape)
+[![Build Status](https://travis-ci.org/nicklanng/react-tape.svg?branch=master)](https://travis-ci.org/nicklanng/react-tape)
+
+Requires `react@^15.5.0` & `react-dom@^15.5.0`.
 https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html
 
 ## Example
