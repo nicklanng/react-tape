@@ -3,6 +3,9 @@
 
 A simple helper library that pulls together Tape and React testing extensions.
 
+Requires `react@^15.5.0`.
+https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html
+
 ## Example
 ```javascript
 import { test, createRenderer } from 'react-tape'

@@ -1,15 +1,25 @@
 {
   "name": "react-tape",
-  "version": "0.1.1",
+  "version": "15.5.0",
   "main": "index.js",
   "repository": "https://github.com/nicklanng/react-tape",
   "author": "<rinse@rinseworld.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "babel-tape-runner test.js"
+  },
   "dependencies": {
     "extend-tape": "^1.2.0",
-    "react-addons-test-utils": "^15.4.2",
+    "react-dom": "^15.5.0",
+    "react-test-renderer": "^15.5.4",
     "tape": "^4.6.3",
     "tape-jsx-equals": "^1.0.0",
     "tape-jsx-includes": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-tape-runner": "^2.0.1",
+    "react": "^15.5.3"
   }
 }
